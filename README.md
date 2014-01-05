@@ -3,3 +3,5 @@ Does not remove your friends.
 
 Actually, it seems that a lot of stuff cannot be deleted/unliked using
 the FB API. :(
+
+Try it out here http://pulse.defekt.nl/nullbook/
